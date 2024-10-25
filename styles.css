@@ -1,0 +1,32 @@
+body{
+    background-image: url("641229.webp");
+    background-size: cover;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+}
+.all{
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: rgb(177, 173, 173);
+    .my-image{
+        margin-left: 500px;
+    }
+    .image{
+        border-radius: 60%;
+        border: solid;
+        width: 100px;
+        height: 90px;
+        border-width: 5px;
+    }
+    .name{
+        margin-left: 500px;
+        font-weight: bold;
+    }
+    .information{
+        margin-left: 250px;
+        padding-bottom: 20px;
+        
+    }
+}
